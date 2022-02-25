@@ -1,6 +1,7 @@
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+http://localhost:4200/lists/62121e31264b84880b9e03c0
 
 ## Development server
 
